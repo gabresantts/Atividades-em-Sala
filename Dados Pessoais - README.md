@@ -3,13 +3,13 @@
 
 - 🔭 Atualmente está trabalhando? **Não**
 
-- 🌱 Atualmente você está aprendendo o que? **Elaborar portfólios, projetar telas, gerenciar projetos, criar bancos de dados e fazer análises com diagnósticos relevantes**
+- 🌱 Atualmente você está aprendendo o que? **Elaborar portfólios, design de telas, gerenciar projetos, criar bancos de dados e fazer análises com diagnósticos minuciosos**
 
 - 👯 Você está procurando emprego? **Sim, estágio na área de TI**
 
-- 🤝 Você tem dificuldades com o que? **Com o projeto integrador**
+- 🤝 Você tem dificuldades com o que? **Concentração em sala de aula**
 
-- 💬 Pergunte-me sobre a carreira acadêmica? **Eu pretendo encerrar a minha graduação em Ciências Sociais e iniciar um Mestrado em Sociologia, bem como encerrar o curso de ADS e ser um futuro Cientista de Dados**
+- 💬 Pergunte-me sobre a carreira acadêmica? **Eu pretendo encerrar a minha graduação em Ciências Sociais e iniciar um Mestrado em Sociologia pela UFPE, bem como encerrar o curso de Análise e Desenvolvimento de Sistemas (SENAC) e ser um futuro Cientista de Dados, abrangendo as duas graduações**
 
 - 📫 Como chegar até mim **gabresantts@gmail.com**
 
