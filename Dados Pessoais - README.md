@@ -15,7 +15,7 @@
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/gabresants?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBx%2BCqenGRi%2Bogbg%2Fos0rDw%3D%3D](https://www.linkedin. com/in/gabresants?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBx%2BCqenGRi%2Bogbg%2Fos0rDw%3D%3D)
 
-- ⚡ Curiosidade **Eu sou apaixonado por filmes e séries.**
+- ⚡ Alguma curiosidade sobre você? **Eu sou apaixonado por filmes e séries.**
 
 <h3 align="left">Idiomas e ferramentas:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
