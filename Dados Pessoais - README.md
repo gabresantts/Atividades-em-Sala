@@ -13,7 +13,7 @@
 
 - 📫 Como chegar até mim **gabresantts@gmail.com**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/gabresants?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBx%2BCqenGRi%2Bogbg%2Fos0rDw%3D%3D](https://www.linkedin. com/in/gabresants?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBx%2BCqenGRi%2Bogbg%2Fos0rDw%3D%3D)
+- 📄 Conheça minhas experiências através do [https://www.linkedin.com/in/gabresants?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBx%2BCqenGRi%2Bogbg%2Fos0rDw%3D%3D](https://www.linkedin. com/in/gabresants?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBx%2BCqenGRi%2Bogbg%2Fos0rDw%3D%3D)
 
 - ⚡ Alguma curiosidade sobre você? **Eu sou apaixonado por filmes e séries.**
 
