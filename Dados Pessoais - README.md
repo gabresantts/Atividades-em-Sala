@@ -9,7 +9,7 @@
 
 - 🤝 Você tem dificuldades com o que? **Concentração em sala de aula**
 
-- 💬 Pergunte-me sobre a carreira acadêmica? **Eu pretendo encerrar a minha graduação em Ciências Sociais e iniciar um Mestrado em Sociologia pela UFPE, bem como encerrar o curso de Análise e Desenvolvimento de Sistemas (SENAC) e ser um futuro Cientista de Dados, abrangendo as duas graduações**
+- 💬 Pergunte-me sobre a carreira acadêmica? **Eu pretendo encerrar a minha graduação em Ciências Sociais e iniciar um Mestrado em Sociologia (UFPE), bem como encerrar o curso de Análise e Desenvolvimento de Sistemas (SENAC) e ser um futuro Cientista de Dados, abrangendo as duas graduações**
 
 - 📫 Como chegar até mim **gabresantts@gmail.com**
 
