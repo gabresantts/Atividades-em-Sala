@@ -1,4 +1,4 @@
-<h1 align="center">Oi👋,eu sou Gabriel Santos</h1>
+<h1 align="center">Oi👋, eu sou Gabriel Santos</h1>
 <h3 align="center">Um cientista social apaixonado por estudar fenómenos sociais e um futuro cientista de dados fascinado pela construção e análise de bancos de dados, sobretudo, aplicando pesquisas qualitativas e quantitativas. </ h3>
 
 - 🔭 Atualmente está trabalhando? **Não.**
