@@ -1,17 +1,17 @@
 <h1 align="center">Oi👋,eu sou Gabriel Santos</h1>
 <h3 align="center">Um cientista social apaixonado por estudar fenómenos sociais e um futuro cientista de dados fascinado pela construção e análise de bancos de dados, sobretudo, aplicando pesquisas qualitativas e quantitativas. </ h3>
 
-- 🔭 Atualmente está trabalhando? **Não.**
+- 🔭 Atualmente está trabalhando? *Não.*
 
-- 🌱 Atualmente você está aprendendo o que? **Elaborar portfólios, design de telas, gerenciar projetos, criar bancos de dados e fazer análises com diagnósticos minuciosos.**
+- 🌱 Atualmente você está aprendendo o que? *Elaborar portfólios, design de telas, gerenciar projetos, criar bancos de dados e fazer análises com diagnósticos minuciosos.*
 
-- 👯 Você está procurando emprego? **Sim, estágio na área de TI.**
+- 👯 Você está procurando emprego? *Sim, estágio na área de TI.*
 
-- 🤝 Você tem dificuldades com o que? **Concentração em sala de aula.**
+- 🤝 Você tem dificuldades com o que? *Concentração em sala de aula.*
 
-- 💬 Pergunte-me sobre a carreira acadêmica? **Eu pretendo encerrar a minha graduação em Ciências Sociais e iniciar um Mestrado em Sociologia (UFPE), bem como encerrar o curso de Análise e Desenvolvimento de Sistemas (SENAC) e ser um futuro Cientista de Dados, abrangendo as duas graduações.**
+- 💬 Pergunte-me sobre a carreira acadêmica? *Eu pretendo encerrar a minha graduação em Ciências Sociais e iniciar um Mestrado em Sociologia (UFPE), bem como encerrar o curso de Análise e Desenvolvimento de Sistemas (SENAC) e ser um futuro Cientista de Dados, abrangendo as duas graduações.*
 
-- 📫 Como chegar até mim **gabresantts@gmail.com**
+- 📫 Como chegar até mim *gabresantts@gmail.com*
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/gabresants?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBx%2BCqenGRi%2Bogbg%2Fos0rDw%3D%3D](https://www.linkedin. com/in/gabresants?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBx%2BCqenGRi%2Bogbg%2Fos0rDw%3D%3D)
 
