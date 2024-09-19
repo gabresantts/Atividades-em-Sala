@@ -3,7 +3,7 @@ Este repositório é destinado a elaboração de atividades em sala de aula, par
 
 Aluno(a): Gabriel Gleydson Lima Dos Santos
 
-# Git, GitHub & VSCode
+# 1 Git, GitHub & VSCode
 
 # 1.1 Resumo Geral
 
